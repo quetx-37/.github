@@ -12,3 +12,7 @@
 -->
 The reason for 37:
 https://youtu.be/d6iQrh2TK98?si=wo-oVWTGez3Nbp0G
+
+Quiet Unseen Neural Tech Xperiments  
+Query, Upload, Evaluate, Test, eXecute
+
