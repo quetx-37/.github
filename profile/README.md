@@ -10,8 +10,8 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-The reason for 37:
-https://youtu.be/d6iQrh2TK98?si=wo-oVWTGez3Nbp0G
+
+1/e = 0.37
 
 Quiet Unseen Neural Tech Xperiments  
 Query, Upload, Evaluate, Test, eXecute  
